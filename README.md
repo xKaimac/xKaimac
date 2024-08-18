@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Hermes](https://github.com/xKaimac/Hermes)
 
-- 🌱 I’m currently learning **Best practices in the industry**
+- 🌱 I’m currently learning **Best practices in the industry and scalable web development**
 
 - 👨‍💻 All of my projects are available at [www.kaimac.com.au](www.kaimac.com.au)
 
