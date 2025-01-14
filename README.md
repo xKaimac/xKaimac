@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alistair</h1>
-<h3 align="center">A graduating CompSci student/aspiring fullstack developer.</h3>
+<h3 align="center">A research assistant and honours student.</h3>
 
-- 🔭 I’m currently working on [Hermes](https://github.com/xKaimac/Hermes)
-
-- 🌱 I’m currently learning **Best practices in the industry and scalable web development**
+- 🔭 I’m currently working on Multi-Agent LLM Coordination
 
 - 👨‍💻 All of my projects are available at [www.kaimac.com.au](www.kaimac.com.au)
 
