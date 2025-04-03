@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alistair</h1>
-<h3 align="center">A research assistant and honours student.</h3>
+<h3 align="center">Computer Science graduate and DreamBerd enthusiast.</h3>
 
 - 🔭 I’m currently working on Multi-Agent LLM Coordination
 
