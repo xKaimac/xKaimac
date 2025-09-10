@@ -1,18 +1,16 @@
 <h1 align="center">Hi 👋, I'm Alistair</h1>
 <h3 align="center">Computer Science graduate and DreamBerd enthusiast.</h3>
 
-- 🔭 I’m currently working on Multi-Agent LLM Coordination
+- 🔭 I’m currently working on Multi-Agent LLM Coordination in 3D Environments
 
 - 👨‍💻 All of my projects are available at [www.kaimac.com.au](www.kaimac.com.au)
 
-- 📫 How to reach me **admin@kaimac.com.au**
-
-- ⚡ Fun fact **I use Neovim btw**
+- 📫 How to reach me **alistair.macvicar@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alistair-macvicar-b89993179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alistair-macvicar-b89993179" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@KaimacDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kaimacdev" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@alistair_macvicar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kaimacdev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
