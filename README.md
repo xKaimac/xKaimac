@@ -1,22 +1,51 @@
-<h1 align="center">Hi 👋, I'm Alistair</h1>
-<h3 align="center">Computer Science graduate and DreamBerd enthusiast.</h3>
+<!-- Header with subheading -->
+<div align="center">
+  <img src="assets/welcome.png"" alt="Welcome to my Github Profile" />
+  <img height="100" alt="I'm Alistair, and I learn by building" src="assets/intro.png" />
+</div>
 
-- 🔭 I’m currently working on Multi-Agent LLM Coordination in 3D Environments
+<br/>
 
-- 👨‍💻 All of my projects are available at [www.kaimac.com.au](www.kaimac.com.au)
+<!-- info table -->
+<table width="100%" align="center" >
+  </thead>
+  <tbody>
+    <tr>
+      <th width="10%">I make cool stuff</th>
+      <th width="10%">I research applications of technology between disciplines</th>
+    </tr>
+    <tr>
+      <td align="center">
+          <a href="https://alistairmacvicar.com">
+            <img alt="Website" src="assets/website.gif" height="175" width="175">
+          </a>
+      </td>
+      <td align="center">
+          <a href="(https://researchnow.flinders.edu.au/en/publications/welcome-to-the-cave">
+            <img alt="Shapes Joining" src="assets/circles.gif" width="175">
+          </a>
+      </td>
+    </tr>
+    <tr>
+      <th width="10%">I'm published</th>
+      <th width="10%">I'm GM btw</th>
+    </tr>
+    <tr>
+      <td align="center">
+          <a href="https://www.sciencedirect.com/science/article/abs/pii/S016786552500008X">
+            <img alt="Published Paper" src="assets/book.gif" height="175" width="175">
+          </a>
+      </td>
+      <td align="center">
+          <img alt="gm btw" src="assets/gm.png" height="175"> 
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-- 📫 How to reach me **alistair.macvicar@protonmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alistair-macvicar-b89993179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alistair-macvicar-b89993179" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@alistair_macvicar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kaimacdev" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-<p>
-  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=xkaimac&show_icons=true&locale=en&layout=compact" alt="xkaimac" />
-  <img align="center" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=xkaimac&" alt="xkaimac" />
-</p>
-
+<!-- footer -->
+<div align="center">
+  <img alt="Please visit the gift shop on your way out" src="assets/visit.png" width="75%"> 
+  <img alt="shop icon" src="assets/shop.gif">
+  <img alt="down arrow" src="assets/down.gif">
+</div>
