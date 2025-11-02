@@ -1,13 +1,14 @@
 <!-- Header with subheading -->
 <div align="center">
-  <img src="assets/welcome.png"" alt="Welcome to my Github Profile" />
-  <img height="100" alt="I'm Alistair, and I learn by building" src="assets/intro.png" />
+  <img src="assets/welcome-title.png" alt="Welcome to my Github Profile" width="30%" />
+  </br>
+  <img alt="I'm Alistair, and I learn by building" src="assets/subheading.png" width="40%" />
 </div>
 
-<br/>
+</br>
 
 <!-- info table -->
-<table width="100%" align="center" >
+<table width="50%" align="center" >
   </thead>
   <tbody>
     <tr>
@@ -45,7 +46,7 @@
 
 <!-- footer -->
 <div align="center">
-  <img alt="Please visit the gift shop on your way out" src="assets/visit.png" width="75%"> 
+  <img alt="Please visit the gift shop on your way out" src="assets/visit.png" width="50%"> 
   <img alt="shop icon" src="assets/shop.gif">
   <img alt="down arrow" src="assets/down.gif">
 </div>
