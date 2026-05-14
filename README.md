@@ -11,7 +11,7 @@
 <table width="50%" align="center" >
   </thead>
   <tbody>
-    <tr>
+    <!-- <tr>
       <th width="10%">I make cool stuff</th>
       <th width="10%">I research applications of technology between disciplines</th>
     </tr>
@@ -26,7 +26,7 @@
             <img alt="Shapes Joining" src="assets/circles.gif" width="175">
           </a>
       </td>
-    </tr>
+    </tr> -->
     <tr>
       <th width="10%">I'm published</th>
       <th width="10%">I'm GM btw</th>
@@ -38,7 +38,7 @@
           </a>
       </td>
       <td align="center">
-          <img alt="gm btw" src="assets/gm.png" height="175"> 
+          <img alt="gm btw" src="assets/gm.png" width="175"> 
       </td>
     </tr>
   </tbody>
